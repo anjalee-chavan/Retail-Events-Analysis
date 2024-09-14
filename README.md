@@ -32,7 +32,7 @@ during the promotional period?<br>
 characteristics among the top-performing stores that could be leveraged across
 other stores?<br>
 
-#### Promotion Type Analysis:
+#### Promotion Type Analysis
 1)What are the top 2 promotion types that resulted in the highest Incremental
 Revenue?<br>
 2)What are the bottom 2 promotion types in terms of their impact on Incremental
@@ -42,7 +42,7 @@ versus BOGOF (Buy One Get One Free) or cashback promotions?500 cashback and BOGO
 4)Which promotions strike the best balance between Incremental Sold Units and
 maintaining healthy margins? 500 cashback and BOGOF<br>
 
-#### Product and Category Analysis:
+#### Product and Category Analysis
 1)Which product categories saw the most significant lift in sales from the
 promotions?<br>
 2)Are there specific products that respond exceptionally well or poorly to
