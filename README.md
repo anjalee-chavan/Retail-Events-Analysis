@@ -6,6 +6,13 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 ### 📊Task
 As a Data Analyst, I provided insightful analyses and recommendations for AtliQ's products based on ad-hoc queries and strategic questions.
 
+### 📂Dataset Information
+#### Given SQL database file contain following tables<br>
+dim_campaigns<br>
+dim_products<br>
+dim_stores<br>
+fact_events<br>
+
 ### ⚙️Tools Used
 Programming Language : SQL <BR>
 RDBMS : MySQL 
